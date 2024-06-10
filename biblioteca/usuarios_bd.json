@@ -1,0 +1,66 @@
+[
+    {
+        "nome": "Esther Carvalho",
+        "cpf": "09105432047",
+        "telefone": "994556677",
+        "emprestimo": "Sim",
+        "livro": "Anna Karienina",
+        "id_livro": "M51"
+    },
+    {
+        "nome": "Levi Martins de Andrade",
+        "cpf": "0078944655",
+        "telefone": "40028922",
+        "emprestimo": "Sim",
+        "livro": "Viagem ao Centro da Terra",
+        "id_livro": "P09"
+    },
+    {
+        "nome": "Carlos Eduardo Araujo",
+        "cpf": "74023450190",
+        "telefone": "999670865",
+        "emprestimo": "Nao",
+        "livro": "",
+        "id_livro": ""
+    },
+    {
+        "nome": "Amelia Almeida",
+        "cpf": "89076556790",
+        "telefone": "8899006677",
+        "emprestimo": "Sim",
+        "livro": "Dom Casmurro",
+        "id_livro": "K33"
+    },
+    {
+        "nome": "Raphael Montes",
+        "cpf": "73245193000",
+        "telefone": "983257761",
+        "emprestimo": "Nao",
+        "livro": "",
+        "id_livro": ""
+    },
+    {
+        "nome": "Matheus Costa da Silva",
+        "cpf": "89514842356",
+        "telefone": "98412654126",
+        "emprestimo": "Nao",
+        "livro": "",
+        "id_livro": ""
+    },
+    {
+        "nome": "Jose Luiz de Freitas",
+        "cpf": "42165898563",
+        "telefone": "984265214",
+        "emprestimo": "Nao",
+        "livro": "",
+        "id_livro": ""
+    },
+    {
+        "nome": "Maria Clara Cavalcante",
+        "cpf": "8942689415",
+        "telefone": "985613245",
+        "emprestimo": "Nao",
+        "livro": "",
+        "id_livro": ""
+    }
+]

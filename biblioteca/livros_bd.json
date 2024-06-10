@@ -1,0 +1,92 @@
+[
+    {
+        "nome": "Mem\u00f3rias p\u00f3stumas de Br\u00e1s Cubas",
+        "autor": "Machado de Assis",
+        "ano": 2022,
+        "num_pags": 480,
+        "editora": "Antof\u00e1gica",
+        "estado": "Disponivel",
+        "id": "A55"
+    },
+    {
+        "nome": "Hamlet",
+        "autor": "William Shakespeare",
+        "ano": 2015,
+        "num_pags": 320,
+        "editora": "Penguin Companhia",
+        "estado": "Disponivel",
+        "id": "A71"
+    },
+    {
+        "nome": "Triste fim de Policarpo Quaresma",
+        "autor": "Lima Barreto",
+        "ano": 2022,
+        "num_pags": 314,
+        "editora": "Martin Claret",
+        "estado": "Disponivel",
+        "id": "A91"
+    },
+    {
+        "nome": "A hora da estrela",
+        "autor": "Clarice Lispector",
+        "ano": 2020,
+        "num_pags": 88,
+        "editora": "Rocco",
+        "estado": "Disponivel",
+        "id": "B76"
+    },
+    {
+        "nome": "Macuna\u00edma",
+        "autor": "M\u00e1rio de Andrade",
+        "ano": 2022,
+        "num_pags": 176,
+        "editora": "Principis",
+        "estado": "Disponivel",
+        "id": "G24"
+    },
+    {
+        "nome": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "ano": 2022,
+        "num_pags": 464,
+        "editora": "Antof\u00e1gica",
+        "estado": "Indispon\u00edvel",
+        "id": "K33"
+    },
+    {
+        "nome": "Jane Eyre",
+        "autor": "Charlotte Bront\u00eb",
+        "ano": 2023,
+        "num_pags": 600,
+        "editora": "Antof\u00e1gica",
+        "estado": "Disponivel",
+        "id": "L92"
+    },
+    {
+        "nome": "Harry Potter e a Pedra Filosofal",
+        "autor": "JK Rowling",
+        "ano": "2017",
+        "num_pags": "192",
+        "editora": "Rocco",
+        "estado": "Disponivel",
+        "id": "M15"
+    },
+    {
+        "nome": "Anna Karienina",
+        "autor": "Liev Tolstoi",
+        "ano": 2017,
+        "num_pags": 808,
+        "editora": "Companhia das Letras",
+        "estado": "Indispon\u00edvel",
+        "id": "M51"
+    },
+    {
+        "nome": "Viagem ao Centro da Terra",
+        "autor": "Julio Verne",
+        "ano": 2022,
+        "num_pags": 480,
+        "editora": "Principis",
+        "estado": "Indispon\u00edvel",
+        "id": "P09"
+    }
+]
